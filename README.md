@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm KUSHAGRA DUBEY</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F77A&center=true&vCenter=true&random=false&width=435&lines=Hi...+There+!+%F0%9F%91%8B;I+Am+Kushagra+Dubey+%F0%9F%98%8A)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **The Universal Learning Machin**
